@@ -1,7 +1,0 @@
-{
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"ls /Users/jongchan/Desktop/claude/opc-knowledge/SMO/ | grep -E \\\"(high_accuracy_OPC|2023_Sakr|OPC_modeling_EUV|SRAF_requirements|2018_SRAF)\\\" && ls /Users/jongchan/Desktop/claude/opc-knowl...",
-  "error": "Exit code 1",
-  "timestamp": "2026-03-10T21:16:27.011Z",
-  "retry_count": 1
-}
